@@ -1,0 +1,11 @@
+prenom;nom;ou
+
+Jean;Pierre;OU=Direction,DC=DOMAIN,DC=LAN
+Sandrine;Drine;OU=Direction,OU=PifPaf,DC=DOMAIN,DC=LAN
+Jean-Claude;Dus;OU=RH,OU=PifPaf,DC=DOMAIN,DC=LAN
+Fox;Mulder;OU=Comptable,OU=PifPaf,DC=DOMAIN,DC=LAN
+Hector;Salamanca;OU=Comptable,OU=PifPaf,DC=DOMAIN,DC=LAN
+Geralt;deRiv;OU=Commercial,OU=PifPaf,DC=DOMAIN,DC=LAN
+Cletus;VanDamme;OU=Commercial,OU=PifPaf,DC=DOMAIN,DC=LAN
+Jeanne;D'Arc;OU=Direction,OU=PifPaf,DC=DOMAIN,DC=LAN
+TechSSR;OU=Technicien,OU=PifPaf,DC=DOMAIN,DC=LAN
